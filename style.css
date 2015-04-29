@@ -1,0 +1,34 @@
+body {
+	background-image:url('background.jpg');
+}
+main {
+	background-color:#ffffff;
+	margin-left:5%;
+	padding:5%;
+	
+	width:80%;
+	border-corner-shape: scoop;
+    border-radius: 30px;
+	height:300px;
+	opacity: 0.6;
+}
+
+main p {
+	margin-left:20px;
+}
+.word {
+	cursor:pointer;
+}
+.word:hover {
+	color:red;
+}
+
+.choice {
+	font-weight:bold;
+	margin-left:10px;
+	cursor:pointer;
+}
+
+.choice:hover {
+	color:blue;
+}
